@@ -1,0 +1,48 @@
+[
+    {
+        "name": "android_vendor_pac",
+        "path": "vendor/pac"
+    },{
+        "name": "android_build",
+        "path": "build"
+    },{
+        "name": "android_frameworks_av",
+        "path": "frameworks/av"
+    },{
+        "name": "android_frameworks_native",
+        "path": "frameworks/native"
+    },{
+        "name": "android_frameworks_base",
+        "path": "frameworks/base"
+    },{
+        "name": "android_frameworks_opt_telephony",
+        "path": "frameworks/opt/telephony"
+    },{
+        "name": "android_hardware_msm7k",
+        "path": "hardware/msm7k"
+    },{
+        "name": "android_hardware_qcom_audio-caf",
+        "path": "hardware/qcom/audio-caf"
+    },{
+        "name": "android_hardware_qcom_bt",
+        "path": "hardware/qcom/bt"
+    },{
+        "name": "android_hardware_qcom_display-caf",
+        "path": "hardware/qcom/display-caf"
+    },{
+        "name": "android_hardware_qcom_display-legacy",
+        "path": "hardware/qcom/display-legacy"
+    },{
+        "name": "android_hardware_qcom_gps",
+        "path": "hardware/qcom/gps"
+    },{
+        "name": "android_hardware_qcom_media-legacy",
+        "path": "hardware/qcom/media-legacy"
+    },{
+        "name": "android_hardware_qcom_media-caf",
+        "path": "hardware/qcom/media-caf"
+    },{
+        "name": "android_bootable_recovery",
+        "path": "bootable/recovery"
+    }
+]

@@ -1,0 +1,123 @@
+[
+{
+        "remote":      "github",
+        "account":     "Apology11",
+        "repository":  "android_vendor_pac",
+        "target_path": "vendor/pac",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "Apology11",
+        "repository":  "android_build",
+        "target_path": "build",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_frameworks_av",
+        "target_path": "frameworks/av",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "Apology11",
+        "repository":  "android_frameworks_native",
+        "target_path": "frameworks/native",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "Apology11",
+        "repository":  "android_frameworks_base",
+        "target_path": "frameworks/base",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_frameworks_opt_telephony",
+        "target_path": "frameworks/opt/telephony",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_hardware_msm7k",
+        "target_path": "hardware/msm7k",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_hardware_qcom_audio-caf",
+        "target_path": "hardware/qcom/audio-caf",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_hardware_qcom_bt",
+        "target_path": "hardware/qcom/bt",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_hardware_qcom_display-caf",
+        "target_path": "hardware/qcom/display-caf",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_hardware_qcom_display-legacy",
+        "target_path": "hardware/qcom/display-legacy",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_hardware_qcom_gps",
+        "target_path": "hardware/qcom/gps",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_hardware_qcom_media-legacy",
+        "target_path": "hardware/qcom/media-legacy",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_hardware_qcom_media-caf",
+        "target_path": "hardware/qcom/media-caf",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_device_sony_nozomi",
+        "target_path": "device/sony/nozomi",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_device_sony_fuji-nozomi",
+        "target_path": "device/sony/fuji-nozomi",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_device_sony_msm8x60",
+        "target_path": "kernel/sony/msm8x60",
+        "revision":    "jb_mr2_chocolate_rmfx"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "vendor_broadcom_wlan",
+        "target_path": "vendor/broadcom/wlan",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "proprietary_vendor_sony",
+        "target_path": "vendor/sony",
+        "revision":    "cm-11.0"
+    },{
+        "remote":      "github",
+        "account":     "OpenSEMC",
+        "repository":  "android_bootable_recovery",
+        "target_path": "bootable/recovery",
+        "revision":    "cm-11.0"
+    }
+]
