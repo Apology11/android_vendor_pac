@@ -7,7 +7,7 @@
         "revision":    "cm-11.0"
     },{
         "remote":      "github",
-        "account":     "Apology11",
+        "account":     "OpenSEMC",
         "repository":  "android_build",
         "target_path": "build",
         "revision":    "cm-11.0"
@@ -19,15 +19,9 @@
         "revision":    "cm-11.0"
     },{
         "remote":      "github",
-        "account":     "Apology11",
+        "account":     "OpenSEMC",
         "repository":  "android_frameworks_native",
         "target_path": "frameworks/native",
-        "revision":    "cm-11.0"
-    },{
-        "remote":      "github",
-        "account":     "Apology11",
-        "repository":  "android_frameworks_base",
-        "target_path": "frameworks/base",
         "revision":    "cm-11.0"
     },{
         "remote":      "github",
@@ -62,26 +56,14 @@
     },{
         "remote":      "github",
         "account":     "OpenSEMC",
-        "repository":  "android_hardware_qcom_display-legacy",
-        "target_path": "hardware/qcom/display-legacy",
-        "revision":    "cm-11.0"
-    },{
-        "remote":      "github",
-        "account":     "OpenSEMC",
         "repository":  "android_hardware_qcom_gps",
         "target_path": "hardware/qcom/gps",
         "revision":    "cm-11.0"
     },{
         "remote":      "github",
         "account":     "OpenSEMC",
-        "repository":  "android_hardware_qcom_media-legacy",
-        "target_path": "hardware/qcom/media-legacy",
-        "revision":    "cm-11.0"
-    },{
-        "remote":      "github",
-        "account":     "OpenSEMC",
-        "repository":  "android_hardware_qcom_media-caf",
-        "target_path": "hardware/qcom/media-caf",
+        "repository":  "android_hardware_qcom_media",
+        "target_path": "hardware/qcom/media",
         "revision":    "cm-11.0"
     },{
         "remote":      "github",
@@ -92,15 +74,15 @@
     },{
         "remote":      "github",
         "account":     "OpenSEMC",
-        "repository":  "android_device_sony_fuji-nozomi",
-        "target_path": "device/sony/fuji-nozomi",
+        "repository":  "android_device_sony_fuji-common",
+        "target_path": "device/sony/fuji-common",
         "revision":    "cm-11.0"
     },{
         "remote":      "github",
         "account":     "OpenSEMC",
         "repository":  "android_device_sony_msm8x60",
         "target_path": "kernel/sony/msm8x60",
-        "revision":    "jb_mr2_chocolate_rmfx"
+        "revision":    "kk_chocolate_rmfx"
     },{
         "remote":      "github",
         "account":     "OpenSEMC",
@@ -118,6 +100,6 @@
         "account":     "OpenSEMC",
         "repository":  "android_bootable_recovery",
         "target_path": "bootable/recovery",
-        "revision":    "cm-11.0"
+        "revision":    "twrp2.7-kk"
     }
 ]
