@@ -9,6 +9,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/nozomi
 
 # PAC device overlay
 #$(shell cp -f vendor/pac/prebuilt/common/bootanimation_framework/android-logo-mask_sony-xhdpi.png frameworks/base/core/res/assets/images/android-logo-mask.png)
+PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/pac/device/fuji-common
 
 # PAC boot logo
 PRODUCT_COPY_FILES += \
