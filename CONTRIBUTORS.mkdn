@@ -131,6 +131,8 @@ HUAWEI:
 
 LG:
 ---------------------------------------------------------------------
+* __G2 (d800) :__ gerrett84
+* __G2 (d802) :__ gerrett84
 * __G2 (Verizon) (vs980) :__ tucstwo
 * __Nexus 4 (mako) :__ kd8bny
 * __Nexus 5 (hammerhead) :__ Owain94, zyonee
@@ -259,8 +261,8 @@ Sony:
 * __Xperia Sola (pepper) :__ percy_g2
 * __Xperia SP (huashan) :__ jacknb1ack
 * __Xperia T (mint) :__ djpbx
-* __Xperia Tablet Z (pollux) :__ bluefa1con
-* __Xperia Tablet Z LTE (pollux_windy) :__ bluefa1con
+* __Xperia Tablet Z LTE (pollux) :__ bluefa1con
+* __Xperia Tablet Z (pollux_windy) :__ bluefa1con
 * __Xperia TX (hayabusa) :__ djpbx
 * __Xperia U (kumquat) :__ percy_g2
 * __Xperia V (tsubasa) :__ djpbx
