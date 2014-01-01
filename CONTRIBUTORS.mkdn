@@ -28,6 +28,7 @@ Forum Administrators:
 -----------------------------
 * __bluefa1con__
 * __metaiiica__
+* __Nick0703__
 * __Papa Smurf151__
 * __szl.kiev__
 
@@ -66,8 +67,13 @@ Graphics Team:
 * __zooyork0721__
 
 
-Devices:		  Codename:       Maintainer:
+Devices:        Codename:       Maintainer:
 ---------------------------------------------------------------------
+
+Acer:
+---------------------------------------------------------------------
+* __Iconia Tab A700 (a700) :__ semhoun
+
 
 Amazon:
 ---------------------------------------------------------------------
@@ -127,13 +133,15 @@ HUAWEI:
 ---------------------------------------------------------------------
 * __Honor (u8860) :__ herna
 * __Ideos X5 PRO (u8800pro) :__ herna
+* __Ascend G510 (u8951) :__ Dazzozo, eloimuns
+* __Ascend Y300 (u8833) :__ Dazzozo, eloimuns
 
 
 LG:
 ---------------------------------------------------------------------
 * __G2 (d800) :__ gerrett84
 * __G2 (d802) :__ gerrett84
-* __G2 (Verizon) (vs980) :__ tucstwo
+* __G2 (Verizon) (vs980) :__ tucstwo, gr33nd3vil
 * __Nexus 4 (mako) :__ kd8bny
 * __Nexus 5 (hammerhead) :__ Owain94, zyonee
 * __Nitro HD (p930) :__ tdm.code
@@ -145,6 +153,7 @@ LG:
 * __Optimus L9 (p760) :__ adamz667
 * __Optimus LTE (su640) :__ tdm.code
 * __Optimus G (e970) :__ neighborhoodhacker
+* __Optimus G (e973) :__ haze028
 * __Optimus G (e975) :__ faust93
 * __Optimus G (ls970) (Sprint):__ spleef, neighborhoodhacker
 * __Optimus One (p500) :__ OldDroid
@@ -289,7 +298,8 @@ Sony Ericsson:
 ZTE:
 ---------------------------------------------------------------------
 * __Blade 3 (atlas40) :__ KonstaT, robt77
-Total Devices: 171
+
+Total Devices: 176
 
 Best regards
      szl.kiev
