@@ -1,14 +1,14 @@
 # Check for target product
-ifeq (pac_n5100,$(TARGET_PRODUCT))
+ifeq (pac_aries,$(TARGET_PRODUCT))
 
 # OVERLAY_TARGET adds overlay asset source
-OVERLAY_TARGET := pa_tvdpi
+OVERLAY_TARGET := pa_nav_xhdpi
 
 # AOKP device overlay
-PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/n5110
+PRODUCT_PACKAGE_OVERLAYS += vendor/pac/overlay/aokp/device/aries
 
 # PAC device overlay
-#$(shell cp -f vendor/pac/prebuilt/common/bootanimation_framework/android-logo-mask_samsung-xhdpi.png frameworks/base/core/res/assets/images/android-logo-mask.png)
+#$(shell cp -f vendor/pac/prebuilt/common/bootanimation_framework/android-logo-mask_lg-xhdpi.png frameworks/base/core/res/assets/images/android-logo-mask.png)
 
 # PAC boot logo
 PRODUCT_COPY_FILES += \
@@ -22,9 +22,12 @@ PRODUCT_COPY_FILES += \
 include vendor/pac/config/pac_common.mk
 
 # Inherit CM device configuration
-$(call inherit-product, device/samsung/n5100/cm.mk)
+$(call inherit-product, device/xiaomi/aries/cm.mk)
 
-PRODUCT_NAME := pac_n5100
+# vendor hack
+$(call vendor-replace,xiaomi,aries)
+
+PRODUCT_NAME := pac_aries
 
 # Update local_manifest.xml
 GET_PROJECT_RMS := $(shell vendor/pac/tools/removeprojects.py $(PRODUCT_NAME))
