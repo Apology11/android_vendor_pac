@@ -3,6 +3,12 @@
     "account":     "Apology11",
     "repository":  "aosp_device_sony_nozomi",
     "target_path": "device/sony/nozomi",
+    "revision":    "pac-4.4"
+  },
+  {
+    "account":     "Apology11",
+    "repository":  "sony_DASH",
+    "target_path": "device/sony/nozomi/DASH",
     "revision":    "aosp-4.4"
   },
   {
