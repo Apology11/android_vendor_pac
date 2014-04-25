@@ -15,7 +15,7 @@
     "account":     "Apology11",
     "repository":  "aosp_vendor_sony_nozomi",
     "target_path": "vendor/sony/nozomi",
-    "revision":    "aosp-4.4"
+    "revision":    "pac-4.4"
   },
   {
     "account":     "Apology11",
