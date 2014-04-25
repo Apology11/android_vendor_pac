@@ -1,0 +1,20 @@
+[
+  {
+    "account":     "Apology11",
+    "repository":  "aosp_device_sony_nozomi",
+    "target_path": "device/sony/nozomi",
+    "revision":    "aosp-4.4"
+  },
+  {
+    "account":     "Apology11",
+    "repository":  "aosp_vendor_sony_nozomi",
+    "target_path": "vendor/sony/nozomi",
+    "revision":    "aosp-4.4"
+  },
+  {
+    "account":     "Apology11",
+    "repository":  "kernel_sony_msm8x60",
+    "target_path": "kernel/nozomi",
+    "revision":    "aosp-4.4"
+  }
+]
