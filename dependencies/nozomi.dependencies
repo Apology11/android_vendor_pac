@@ -21,6 +21,6 @@
     "account":     "Apology11",
     "repository":  "kernel_sony_msm8x60",
     "target_path": "kernel/nozomi",
-    "revision":    "aosp-4.4"
+    "revision":    "test-4.4"
   }
 ]
