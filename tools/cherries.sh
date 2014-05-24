@@ -26,8 +26,6 @@ case $device in
         cherries+=(1898_PAC)
         # Revert "wpa_supplicant_8 - Hostapd: Android related changes for sockets"
         cherries+=(63203_CM)
-        # telephony: set additional audio parameters for incall audio (2/2)
-        cherries+=(1899_PAC)
         # bluedroid: increase uhid report buffer size for wiimote
         cherries+=(63389_CM)
         # audio: Add A2DP notification support
@@ -69,6 +67,10 @@ case $device in
         # Swap Storages
         cherries+=(56515_CM)
     ;;
+    janice)
+        # fix default colors for janice
+        cherries+=(2154_PAC)
+    ;;
 
 esac
 
@@ -78,4 +80,3 @@ if [ "$cherries" != "" ]; then
     echo -e ""
     ./build/tools/repopick.py -b ${cherries[@]}
 fi
-
