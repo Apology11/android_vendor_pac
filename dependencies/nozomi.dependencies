@@ -3,7 +3,7 @@
     "account":     "Apology11",
     "repository":  "aosp_device_sony_nozomi",
     "target_path": "device/sony/nozomi",
-    "revision":    "pac-4.4"
+    "revision":    "pac-4.4-cb"
   },
   {
     "account":     "Apology11",
@@ -21,6 +21,6 @@
     "account":     "Apology11",
     "repository":  "kernel_sony_msm8x60",
     "target_path": "kernel/nozomi",
-    "revision":    "test-4.4"
+    "revision":    "aosp-4.4"
   }
 ]
